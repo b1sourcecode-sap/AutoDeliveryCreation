@@ -1,0 +1,2 @@
+Delivery Creation Error is:One of the base documents has already been closed : For Customer Code : 606612405   :1/23/2026 12:16:19 PM
+Delivery Creation Error is:One of the base documents has already been closed : For Customer Code : 606612405   :1/23/2026 12:18:38 PM

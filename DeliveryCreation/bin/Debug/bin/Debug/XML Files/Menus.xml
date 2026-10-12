@@ -1,0 +1,10 @@
+
+<Application>
+	<Menus>
+		
+		<action type="add">
+    <Menu Checked="0" Enabled="1" FatherUID="2048" String="Auto Delivery Creation" Type="1" position="3" UniqueID="DelCreation" />
+    <!--<Menu Checked="0" Enabled="1" FatherUID="12800" String="Daily Report Amount Wise" Type="1" position="10" UniqueID="DailySalesRpt1" />-->
+    </action>
+	</Menus>
+</Application> 

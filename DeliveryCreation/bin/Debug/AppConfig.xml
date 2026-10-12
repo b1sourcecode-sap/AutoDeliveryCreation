@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CompanyDetails>
+
+  <DatabaseServerName>192.168.11.100:30015</DatabaseServerName>
+  <dbUser>SYSTEM</dbUser>
+  <dbPassword>P@ssw0rD</dbPassword>
+  <Database>LIQUICK_IRD</Database>
+  <LicenseServerName>192.168.11.200</LicenseServerName>
+  
+   <WebUserName>Test_CBMS</WebUserName>
+  <WebPassword>test@321</WebPassword>
+  <seller_pan>999999999</seller_pan>
+  <buyer_pan>302958429</buyer_pan>
+  <fiscal_year>"2075.076"</fiscal_year>
+  <InvBaseAddress>https://cbapi.ird.gov.np</InvBaseAddress>
+  <!--<InvBaseAddress>http://202.166.207.75:9050</InvBaseAddress>-->
+ 
+  <Invresponse>api/bill</Invresponse>
+  <CRNoteresponse>api/billreturn</CRNoteresponse>
+  
+  <!--<ServerName>192.168.11.200:30015</ServerName>
+  <UserID>SYSTEM</UserID>
+  <Password>P@ssw0rD</Password>-->
+  <CurrentSchema>HKTMTEST</CurrentSchema>
+
+  <InterCompanyUser>manager</InterCompanyUser>
+  <InterCompanyPassword>1234</InterCompanyPassword>
+  
+</CompanyDetails>

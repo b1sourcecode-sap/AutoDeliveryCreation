@@ -1,0 +1,10 @@
+Delivery Created Sucessfully,Delivery No:250: For Customer Code : 603158797    :10/3/2024 3:48:38 PM
+Delivery Creation Error is:(2) Scan Qty not equal to Deliver Qty: For Customer Code : 603158797   :10/3/2024 4:31:39 PM
+Delivery Created Sucessfully,Delivery No:251: For Customer Code : 603158797    :10/3/2024 4:32:07 PM
+Delivery Creation Error is:Quantity falls into negative inventory  [DLN1.ItemCode][line: 5]: For Customer Code : 603158797   :10/3/2024 5:27:09 PM
+Delivery Creation Error is:(2) Scan Qty not equal to Deliver Qty: For Customer Code : 603158797   :10/3/2024 5:30:09 PM
+Delivery Creation Error is:[SAP AG][LIBODBCHDB32 DLL][HDBODBC32] General error;1300 fetch returns more than requested number of rows: "TESTAUTOHUB20240411E"."SBO_SP_TRANSACTIONNOTIFICATION": line 203 col 6 (at pos 10756): [1300] (range 3) fetch returns more than requested number of rows exception: fetch returns more than requested number of rows: For Customer Code : 603158797   :10/3/2024 5:41:44 PM
+Delivery Created Sucessfully,Delivery No:252: For Customer Code : 603158797    :10/3/2024 5:42:53 PM
+Delivery Created Sucessfully,Delivery No:253: For Customer Code : 603158797    :10/3/2024 6:05:43 PM
+Delivery Created Sucessfully,Delivery No:254: For Customer Code : 603158797    :10/3/2024 6:13:47 PM
+Delivery Created Sucessfully,Delivery No:255: For Customer Code : 603158797    :10/3/2024 6:23:55 PM

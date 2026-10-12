@@ -1,0 +1,2 @@
+Delivery Creation Error is:(2) Please Scan Item with BarCode At First: For Customer Code : 610062944   :9/1/2024 4:00:53 PM
+Delivery Creation Error is:(2) Please Scan Item with BarCode At First: For Customer Code : 610062944   :9/1/2024 4:44:15 PM

@@ -1,0 +1,6 @@
+Delivery Created Sucessfully,Delivery No:2136: For Customer Code : 609606278    :1/21/2026 12:33:19 PM
+Delivery Created Sucessfully,Delivery No:2137: For Customer Code : 601796663    :1/21/2026 1:07:57 PM
+Delivery Created Sucessfully,Delivery No:2138: For Customer Code : 303824354    :1/21/2026 1:19:19 PM
+Delivery Created Sucessfully,Delivery No:2140: For Customer Code : 601796663    :1/21/2026 1:50:46 PM
+Delivery Created Sucessfully,Delivery No:2141: For Customer Code : 601796663    :1/21/2026 2:04:09 PM
+Delivery Created Sucessfully,Delivery No:2142: For Customer Code : 601796663    :1/21/2026 2:14:29 PM

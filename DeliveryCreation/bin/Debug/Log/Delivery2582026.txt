@@ -1,0 +1,2 @@
+Delivery Creation Error is:Quantity falls into negative inventory  [DLN1.ItemCode][line: 10]: For Customer Code : 602468709   :8/25/2026 1:11:33 PM
+Delivery Creation Error is:Quantity falls into negative inventory  [DLN1.ItemCode][line: 10]: For Customer Code : 602468709   :8/25/2026 1:12:30 PM

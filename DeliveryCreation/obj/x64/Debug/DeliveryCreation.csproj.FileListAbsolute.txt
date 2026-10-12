@@ -1,0 +1,127 @@
+E:\ird\DeliveryCreation\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\ird\DeliveryCreation\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\ird\DeliveryCreation\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\ird\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.ResolveComReference.cache
+E:\ird\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.GenerateResource.Cache
+E:\ird\DeliveryCreation\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\DeliveryCreation\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\DeliveryCreation\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\DeliveryCreation\bin\Debug\CRDisplay.dll
+E:\ird\DeliveryCreation\bin\Debug\cstLng.dll
+E:\ird\DeliveryCreation\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\DeliveryCreation\bin\Debug\System.Net.Http.Formatting.dll
+E:\ird\DeliveryCreation\bin\Debug\Newtonsoft.Json.dll
+E:\ird\DeliveryCreation\bin\Debug\System.Net.Http.Formatting.xml
+E:\ird\DeliveryCreation\bin\Debug\DeliveryCreation.exe.config
+F:\NepalProject\DeliveryCreation\bin\Debug\DeliveryCreation.exe
+F:\NepalProject\DeliveryCreation\bin\Debug\bin\Debug\XML Files\CFL.xml
+F:\NepalProject\DeliveryCreation\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\NepalProject\DeliveryCreation\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\NepalProject\DeliveryCreation\bin\Debug\DeliveryCreation.exe.config
+F:\NepalProject\DeliveryCreation\bin\Debug\CRDisplay.dll
+F:\NepalProject\DeliveryCreation\bin\Debug\cstLng.dll
+F:\NepalProject\DeliveryCreation\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\Interop.SAPbobsCOM.dll
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\Interop.SAPbouiCOM.dll
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.ResolveComReference.cache
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\DeliveryCreation.Form1.resources
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.GenerateResource.Cache
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\DeliveryCreation.exe
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\DeliveryCreation.pdb
+F:\NepalProject\DeliveryCreation\bin\Debug\DeliveryCreation.pdb
+F:\NepalProject\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csprojResolveAssemblyReference.cache
+E:\ird\DeliveryCreation\obj\x64\Debug\DeliveryCreation.exe
+E:\ird\DeliveryCreation\obj\x64\Debug\DeliveryCreation.pdb
+E:\ird\DeliveryCreation\bin\Debug\DeliveryCreation.exe
+E:\ird\DeliveryCreation\bin\Debug\DeliveryCreation.pdb
+E:\ird\DeliveryCreation\obj\x64\Debug\DeliveryCreation.Form1.resources
+E:\ird\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csprojResolveAssemblyReference.cache
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\bin\Debug\DeliveryCreation.exe.config
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\bin\Debug\DeliveryCreation.exe
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\bin\Debug\DeliveryCreation.pdb
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\bin\Debug\CRDisplay.dll
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\bin\Debug\cstLng.dll
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\bin\Debug\Newtonsoft.Json.dll
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\bin\Debug\stdole.dll
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\bin\Debug\System.Net.Http.Formatting.xml
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.AssemblyReference.cache
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.SuggestedBindingRedirects.cache
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.exe.config
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.ResolveComReference.cache
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.Form1.resources
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.GenerateResource.cache
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.CoreCompileInputs.cache
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\Delivery.C5132A98.Up2Date
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.exe
+D:\Drive Professional\Projects_SAP\Addon_ver10\KTM-200\Addon-03032024\100\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.pdb
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\bin\Debug\DeliveryCreation.exe.config
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\bin\Debug\DeliveryCreation.exe
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\bin\Debug\DeliveryCreation.pdb
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\bin\Debug\CRDisplay.dll
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\bin\Debug\cstLng.dll
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\bin\Debug\Newtonsoft.Json.dll
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\bin\Debug\stdole.dll
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\bin\Debug\System.Net.Http.Formatting.xml
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.AssemblyReference.cache
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.SuggestedBindingRedirects.cache
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.exe.config
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\Interop.SAPbobsCOM.dll
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\Interop.SAPbouiCOM.dll
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.ResolveComReference.cache
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.Form1.resources
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.GenerateResource.cache
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.CoreCompileInputs.cache
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\Delivery.C5132A98.Up2Date
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.exe
+D:\Samikshya\Desktop\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.pdb
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\DeliveryCreation.exe.config
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\DeliveryCreation.exe
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\DeliveryCreation.pdb
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CRDisplay.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\cstLng.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\FlashControlV71.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\Newtonsoft.Json.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\stdole.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\ShockwaveFlashObjects.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\bin\Debug\System.Net.Http.Formatting.xml
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.AssemblyReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.exe.config
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\obj\x64\Debug\Interop.AccessibilityCplAdminLib.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\obj\x64\Debug\Interop.SAPbobsCOM.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\obj\x64\Debug\Interop.SAPbouiCOM.dll
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.ResolveComReference.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.Form1.resources
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.GenerateResource.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.CoreCompileInputs.cache
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.csproj.CopyComplete
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.exe
+E:\IRD\Version 10\Addon_ver10\KTM-200\Addon-03032024\AutoDeliveryCreation\BarCode\DeliveryCreation\obj\x64\Debug\DeliveryCreation.pdb

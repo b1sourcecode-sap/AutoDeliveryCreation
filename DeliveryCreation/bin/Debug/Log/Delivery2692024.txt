@@ -1,0 +1,1 @@
+Delivery Creation Error is:(2) Scan Qty not equal to Deliver Qty: For Customer Code : 605923111   :9/26/2024 5:39:22 PM
